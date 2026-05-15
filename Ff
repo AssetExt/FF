@@ -1,3 +1,18 @@
+/* =============================================================
+/*                       RbxDumperV2                            
+/*               https://imtheo.lol/Offsets                     
+/* -------------------------------------------------------------
+/*  Dumped By       : theo (https://imtheo.lol)                 
+/*  Roblox Version  : version-ec412128eba3476e
+/*  Dumper Version  : 2.1.6
+/*  Dumped At       : 14:16 13/05/2026 (GMT)
+/*  Total Offsets   : 13126
+/* -------------------------------------------------------------
+/*  Join the discord!                                           
+/*  https://imtheo.lol/offsets/discord                               
+/* =============================================================
+*/
+
 namespace FFlagOffsets {
     public static class Info {
         public static string ClientVersion = "version-ec412128eba3476e";
